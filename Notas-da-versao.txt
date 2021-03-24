@@ -1,0 +1,9 @@
+ar.py e alp.py pertemcem a versão com as seguintes funcionalidades e usado no Raspberry Pi 1 B
+
+1 - Acender/Apagar a Lâmpada da Frente da Casa
+2 - Acender/Apagar as Lâmpadas da Garagem
+3 - Acender/Apagar a Lâmpada do Jardim Principal
+4 - Acender/Apagar as Lâmpadas do Jardim de Inverno
+5 - Abrir/Fechar Portão Automático da Garagem
+6 - Ligar/Desligar o Sistema de Alarme
+7 - Ligar/Desligar a Automação Automática/Manual dos Portões e Lâmpadas
